@@ -1,0 +1,49 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+section {
+    text-align: center;
+    line-height: 2px;
+    
+}
+
+
+
+#using-web {
+    text-align: center;
+    line-height: 30px;
+}
+#arama-cubugu{
+ 
+    text-align: center;
+}
+.t-1{
+    background-color: #7EE5DA;
+    width: 30%;
+    height: 90px;
+    text-align: center;
+    float: left;
+    margin-left: 140px;
+}
+.t-2{
+    background-color: #70CCC2;
+    width: 20%;
+    height: 90px;
+    float: left;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-align: center ;
+}
+.t-3{
+    background-color: #62B3AA;
+    text-align: center;
+    width: 40%;
+    height: 90px;
+    float: left;
+}
+#son{
+    text-align: center;
+    padding-top: 90px;
+}
